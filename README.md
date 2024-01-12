@@ -1,5 +1,6 @@
 FRONTEND  - MIDDLE-END - BACKEND
--SERVICES-> fight_search_service,auth_service,booking_ervice,remainder_service
+
+-Services--> fight_search_service,auth_service,booking_ervice,remainder_service
 - We need an intermediate layer between the client side and the different microservices
 - Using this middle end path, when client sends request we will be able to make decision that which microservice
 should actually respond to this request
